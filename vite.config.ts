@@ -7,7 +7,7 @@ export default defineConfig(({ mode }) => {
   const env = loadEnv(mode, '.', '');
 
   return {
-    base: mode === 'production' ? '/YOUR-REPO-NAME/' : '/',
+    base: '/',
 
     plugins: [react(), tailwindcss()],
 
