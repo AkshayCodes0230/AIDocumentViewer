@@ -1,0 +1,6 @@
+{
+  "name": "AI PDF Viewer & Chat Assistant",
+  "description": "A modern SaaS platform that allows users to upload PDFs and chat with an AI assistant for summaries, notes, and document understanding using Gemini 1.5 Flash.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
